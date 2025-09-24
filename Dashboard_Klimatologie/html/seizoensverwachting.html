@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Seizoensverwachting</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    .pdf-container {
+      max-width: 1000px;
+      margin: 2rem auto;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    iframe {
+      width: 100%;
+      height: 90vh;
+      border: none;
+    }
+
+    .download-section {
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    .download-button {
+      background: linear-gradient(to right, #4facfe, #00f2fe);
+      color: white;
+      padding: 0.8rem 1.5rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transform: scale(1.2); 
+      display: inline-block;
+    }
+
+    .download-button:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+
+    .update-info {
+      font-size: 0.95rem;
+      color: #d60909;
+      margin-top: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="klimaat-header-box">
+    <h1>🌿 Seizoensverwachting voor Suriname</h1>
+    <p>Bekijk hieronder het officiële document</p>
+  </div>
+
+  <div class="pdf-container">
+    <iframe src="../docs/seizoensverwachting.pdf"></iframe>
+  </div>
+
+  <div class="download-section">
+    <a href="../docs/seizoensverwachting.pdf" download class="download-button">📥 Download PDF</a>
+    <div class="update-info">Laatste update: september 2025</div>
+  </div>
+
+  <footer class="klimaat-footer">
+    © 2025 Meteorologische Dienst Suriname – Unit Klimatologie
+  </footer>
+
+</body>
+</html>

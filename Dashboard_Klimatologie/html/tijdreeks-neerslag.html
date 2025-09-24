@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Tijdreeks Neerslag – Laatste 10 dagen</title>
+  <link rel="stylesheet" href="../css/tijdreeks-neerslag.css">
+</head>
+<body class="gradient-bg">
+
+    <!-- 🧭 Titel -->
+  <div class="box title-box">
+    <h1>Tijdreeks Neerslag – Laatste 10 dagen</h1>
+    <p class="subtitle">Bekijk de neerslaggegevens van de afgelopen 10 dagen per station.</p>
+  </div>
+
+  <div class="box contact-box">
+  <p style="margin:0; font-size:1em; line-height:1.6;">
+    Voor aanvullende neerslagdata of langere tijdreeksen, neem contact op via 
+    <a href="mailto:aanvraagklimadata@gmail.com">aanvraagklimadata@gmail.com</a> of 
+    <a href="mailto:klimadata@hydromet.sr">klimadata@hydromet.sr</a> 
+    of bezoek onze <a href="/contact">contactpagina</a>.
+  </p>
+</div>
+
+  <!-- 🔽 Stationselector -->
+  <div class="box selector-box">
+    <label for="station-select">Station:</label>
+    <select id="station-select">
+      <option value="">Kies een station</option>
+    </select>
+  </div>
+
+  <!-- 📥 Downloadknop -->
+  <div class="box download-box">
+    <button id="download-btn">Exporteer naar CSV</button>
+    <div id="message"></div>
+  </div>
+
+  <!-- 📊 Samenvatting -->
+  <div class="box summary-box" id="summary" style="display:none;">
+    📈 Gemiddelde neerslag: <span id="avg">—</span> mm<br>
+    📉 Droge dagen: <span id="dry">—</span><br>
+    📊 Dagen met een hoeveelheid matige/ zware neerslag: <span id="wet">—</span><br>
+    🌧️ Totale neerslag: <span id="total">—</span> mm<br>
+    ⛔ Dagen zonder data: <span id="missing">—</span>
+  </div>
+
+  <!-- 📋 Tabel -->
+  <div class="box table-box">
+    <table id="rainfall-table" style="display:none;">
+      <thead>
+        <tr>
+          <th>Datum</th>
+          <th>StationID</th>
+          <th>Neerslag (mm)</th>
+          <th>🌧️ Categorie</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <!-- 📘 Legenda -->
+  <div class="box legend-box" id="legenda" style="display:none;">
+    <strong>Legenda voor Neerslagcategorie:</strong><br>
+    ⛔ geen data<br>
+    🌞 droge dag (0,0 mm)<br>
+    💧 lichte neerslag (0,1 - 10,0 mm)<br>
+    💧💧 matige neerslag (10,1 - 30,0 mm)<br>
+    💧💧💧 zware neerslag (30,1 - 60,0 mm)<br>
+    💧💧💧💧 zeer zware neerslag (&gt; 60,0 mm)
+  </div>
+
+  <!-- ✅ Functionele script -->
+  <script>
+    let allRows = [];
+
+    fetch('../data/tijdreeks-neerslag-data.csv')
+      .then(response => response.text())
+      .then(csv => {
+        const rows = csv.trim().split('\n').map(r => r.split(','));
+        const headers = rows[0];
+        allRows = rows.slice(1);
+
+        const stationMap = new Map();
+        allRows.forEach(r => {
+          const stationID = r[1];
+          if (!stationMap.has(stationID)) stationMap.set(stationID, []);
+          stationMap.get(stationID).push(r);
+        });
+
+        const select = document.getElementById("station-select");
+        const knownStations = Array.from(new Set(allRows.map(r => r[1])));
+
+        knownStations.forEach(station => {
+          const option = document.createElement("option");
+          option.value = station;
+          option.textContent = station;
+          select.appendChild(option);
+        });
+
+        select.addEventListener("change", () => {
+          const selected = select.value;
+          const tbody = document.querySelector("#rainfall-table tbody");
+          const table = document.getElementById("rainfall-table");
+          const message = document.getElementById("message");
+          const legenda = document.getElementById("legenda");
+          const summary = document.getElementById("summary");
+
+          tbody.innerHTML = "";
+          message.textContent = "";
+          legenda.style.display = "none";
+          summary.style.display = "none";
+
+          if (!selected) {
+            table.style.display = "none";
+            message.textContent = "⚠️ Kies een station om data te bekijken.";
+            return;
+          }
+
+          const filtered = stationMap.get(selected) || [];
+          if (filtered.length === 0) {
+            table.style.display = "none";
+            message.textContent = "⛔ geen data";
+            return;
+          }
+
+          let total = 0, dry = 0, wet = 0, missing = 0;
+
+          filtered.forEach(r => {
+            const [date, stationID, rainfall, category] = r;
+            const safeDate = date || "⛔ geen data";
+            const safeStation = stationID || "⛔ geen data";
+            const safeRainfall = rainfall || "⛔ geen data";
+            const safeCategory = category || "⛔ geen data";
+
+            const tr = document.createElement("tr");
+            tr.innerHTML = `
+              <td>${safeDate}</td>
+              <td>${safeStation}</td>
+              <td>${safeRainfall}</td>
+              <td>${safeCategory}</td>
+            `;
+            tbody.appendChild(tr);
+
+            if (safeRainfall === "⛔ geen data") {
+              missing++;
+            } else {
+              const val = parseFloat(safeRainfall);
+              total += val;
+              if (val === 0) dry++;
+              if (val > 10) wet++;
+            }
+          });
+
+          const avg = (total / (filtered.length - missing)).toFixed(1);
+          document.getElementById("avg").textContent = isNaN(avg) ? "—" : avg;
+          document.getElementById("dry").textContent = dry;
+          document.getElementById("wet").textContent = wet;
+          document.getElementById("total").textContent = total.toFixed(1);
+          document.getElementById("missing").textContent = missing;
+
+          table.style.display = "table";
+          legenda.style.display = "block";
+          summary.style.display = "block";
+        });
+
+        document.getElementById("download-btn").addEventListener("click", () => {
+          const table = document.getElementById("rainfall-table");
+          if (table.style.display === "none") return;
+
+          let csv = "Datum,StationID,Neerslag (mm),Categorie\n";
+          const rows = table.querySelectorAll("tbody tr");
+          rows.forEach(row => {
+            const cols = row.querySelectorAll("td");
+            const line = Array.from(cols).map(td => td.textContent).join(",");
+            csv += line + "\n";
+          });
+
+          const blob = new Blob([csv], { type: "text/csv" });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = "neerslag_tabel.csv";
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        });
+      })
+      .catch(error => {
+        document.getElementById("message").textContent = "❌ Fout bij het laden van de CSV: " + error;
+      });
+  </script>
+
+  <!-- 🧭 Footer -->
+<footer class="klimaat-footer">
+  © 2025 Meteorologische Dienst Suriname – Unit Klimatologie
+</footer>
+
+</body>
+</html>

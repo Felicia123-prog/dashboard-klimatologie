@@ -1,0 +1,223 @@
+/* 🌈 Achtergrond */
+.gradient-bg {
+  background-color: #40E0D0; /* turquoise */
+  min-height: 100vh;
+  padding: 2em;
+}
+
+/* 📦 Algemene box styling */
+.box {
+  border-radius: 12px;
+  padding: 1.5em;
+  margin-bottom: 2em;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+/* 🧭 Titelbox */
+.title-box {
+  background-color: #003366; /* donkerblauw */
+  color: white;
+}
+
+.title-box h1 {
+  margin: 0;
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  color: #cce6ff;
+  margin-top: 0.5em;
+}
+
+/* 🔽 Stationselector */
+.selector-box {
+  background-color: #FFFACD; /* lichtgeel */
+}
+
+.selector-box select {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1.3em;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+/* 📥 Downloadknop */
+.download-box {
+  background-color: #E6FFE6; /* zachtgroen */
+}
+
+.download-box button {
+  background-color: #228B22; /* diepgroen */
+  color: white;
+  border: none;
+  padding: 0.75em 1.5em;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* ⚠️ Meldingen */
+#message {
+  text-align: center;
+  margin-top: 1em;
+  font-size: 1em;
+  color: #cc0000;
+}
+
+/* 📊 Samenvatting */
+.summary-box {
+  background-color: #E0F7FA; /* lichtgrijsblauw */
+  border-left: 4px solid #0077cc;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+/* 📋 Tabel */
+.table-box {
+  background-color: #F0FFFF; /* witblauw */
+}
+
+.table-box table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
+.table-box th, .table-box td {
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.table-box th {
+  background-color: #0077cc;
+  color: white;
+}
+
+.table-box tr:nth-child(even) {
+  background-color: #eef6ff;
+}
+
+/* 📘 Legenda */
+.legend-box {
+  background-color: #FFE4E1; /* lichtroze */
+  border-left: 4px solid #cc3366;
+  font-size: 1em;
+  line-height: 1.6;
+}
+
+/* 🌧️ Kleuren voor categorieën */
+td[data-category*="💧💧💧💧"] {
+  background-color: #cce5ff;
+  font-weight: bold;
+}
+
+td[data-category*="💧💧💧"] {
+  background-color: #d9ecff;
+}
+
+td[data-category*="💧💧"] {
+  background-color: #e6f3ff;
+}
+
+td[data-category*="💧"] {
+  background-color: #f2f9ff;
+}
+
+td[data-category*="🌞"] {
+  background-color: #fffbe6;
+  color: #cc9900;
+}
+
+td[data-category*="⛔"] {
+  background-color: #ffe6e6;
+  color: #cc0000;
+  font-style: italic;
+}
+
+/* Alternatieve categorieën */
+td.dark-blue  { background-color: #cce5ff; }
+td.blue       { background-color: #d9ecff; }
+td.light-blue { background-color: #e6f3ff; }
+td.red        { background-color: #ffe5e5; }
+td.dark-red   { background-color: #ffcccc; }
+td.gray       { background-color: #eeeeee; color: #999; font-style: italic; }
+
+/* 🧭 Footer */
+.klimaat-footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #161515;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.4);
+  border-top: 1px solid rgba(255,255,255,0.2);
+}
+.contact-box {
+  background-color: #e42c69; /* licht crème */
+  border-left: 4px solid #0077cc;
+  padding: 1.5em;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin-bottom: 2em;
+}
+
+.contact-box a {
+  color: #1c08d3;
+  text-decoration: underline;
+}
+/* 🌟 Hover-effect voor alle boxen */
+.box:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* 🎯 Extra visuele feedback */
+.box:hover p,
+.box:hover h1,
+.box:hover label,
+.box:hover select,
+.box:hover button {
+  filter: brightness(1.1);
+  transition: filter 0.25s ease;
+}
+/* 📋 Tabelkop visueel sterker */
+.table-box th {
+  background: linear-gradient(to right, #0077cc, #005fa3);
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* 📋 Tabelrijen met zachte tinten */
+.table-box tr:nth-child(even) {
+  background-color: #e6f7ff;
+}
+
+.table-box tr:nth-child(odd) {
+  background-color: #f9fcff;
+}
+
+/* 📋 Hover op rij */
+.table-box tr:hover {
+  background-color: #d0ebff;
+  transition: background-color 0.2s ease;
+}
+
+/* 📋 Cellen met visuele borders */
+.table-box td {
+  border: 1px solid #b3d1e6;
+}
+
+/* 📋 Categorie extra accent */
+td[data-category] {
+  font-weight: bold;
+  border-left: 4px solid #0077cc;
+}
+td[data-category*="🌧️"] { background-color: #d0f0ff; }
+td[data-category*="🌦️"] { background-color: #e0ffe0; }
+td[data-category*="🌩️"] { background-color: #ffe0e0; }
+td[data-category*="🌨️"] { background-color: #f0f0ff; }

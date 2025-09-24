@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Klimatologie van Suriname</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    .popup {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 90%;
+      max-width: 700px;
+      background: rgba(255, 255, 255, 0.97);
+      padding: 2rem 2.5rem;
+      border-radius: 12px;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.5);
+      z-index: 9999;
+      font-size: 1rem;
+      line-height: 1.6;
+      color: #222;
+      white-space: normal;
+      overflow-y: auto;
+      max-height: 80vh;
+      animation: fadeIn 0.4s ease-in-out;
+    }
+
+    /* 🎯 Specifieke styling voor seizoensindeling pop-up */
+    .popup.seizoenen-popup {
+      top: 72%;
+      max-width: 1100px;
+      width: 96%;
+      padding: 2.5rem 3rem;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translate(-50%, -60%); }
+      to   { opacity: 1; transform: translate(-50%, -50%); }
+    }
+
+    #closePopup {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #444;
+      cursor: pointer;
+      transition: color 0.2s ease;
+    }
+
+    #closePopup:hover {
+      color: #ff4d4d;
+    }
+
+    .popup table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 1rem;
+      margin-top: 1rem;
+      table-layout: fixed;
+    }
+
+    .popup th,
+    .popup td {
+      padding: 10px;
+      border: 1px solid #ccc;
+      text-align: left;
+      word-wrap: break-word;
+    }
+
+    .popup thead {
+      background-color: #e0b3ff;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 🌄 Header -->
+  <div class="klimaat-header-box">
+    <h1>Klimatologie van Suriname</h1>
+     </div>
+
+  <!-- 📦 Boxen -->
+  <div class="klimaat-grid">
+    <div class="klimaat-box tropisch" data-fulltext="
+<b>Tropisch Palet</b><br><br>
+Suriname kent een tropisch klimaat, gekenmerkt door hoge temperaturen, veel zonne-uren en aanzienlijke neerslag. Volgens de Köppen-Geigerclassificatie zijn er drie hoofdtypes:<br><br>
+• Af: Tropisch regenwoudklimaat (noorden, inclusief kustregio’s)<br>
+• Am: Tropisch moessonklimaat (zuidelijke laaglanden)<br>
+• Aw: Tropisch savanneklimaat (berggebieden in het zuiden)
+">
+      <h3>🌴 Tropisch Palet</h3>
+    </div>
+
+    <div class="klimaat-box seizoenen" data-fulltext="
+<b>Seizoensindeling van Suriname</b><br><br>
+In Suriname hebben we 4 seizoenen volgens de methode van het veeljarige gemiddelde der neerslag:<br><br>
+<table>
+  <thead>
+    <tr>
+      <th>Seizoen</th>
+      <th>Periode</th>
+      <th>Positie ITCZ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kleine regentijd</td>
+      <td>Eerste helft december – Tweede helft januari</td>
+      <td>Boven Suriname</td>
+    </tr>
+    <tr>
+      <td>Kleine droge tijd</td>
+      <td>Tweede helft januari – Tweede helft maart</td>
+      <td>Ten zuiden van Suriname</td>
+    </tr>
+    <tr>
+      <td>Grote regentijd</td>
+      <td>Tweede helft maart – Eerste helft augustus</td>
+      <td>Boven Suriname</td>
+    </tr>
+    <tr>
+      <td>Grote droge tijd</td>
+      <td>Eerste helft augustus – Eerste helft december</td>
+      <td>Ten noorden, boven de Atlantische oceaan</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+Zelfs in de droge tijden valt er gemiddeld nog 100–150 mm regen per maand.<br>
+">
+      <h3>🌦 Seizoensindeling</h3>
+    </div>
+
+    <div class="klimaat-box temperaturen" data-fulltext="
+<b>Temperatuur in Suriname</b><br><br>
+• Dagelijks gemiddelde minimum: 21–24 °C rond zonsopkomst<br>
+
+•Dagelijks gemiddelde maximum: 31–34 °C in de vroege middag<br>
+
+•Jaarlijkse gemiddelde temperatuur: ± 27 °C<br>
+
+•In berggebieden kan het ’s nachts dalen tot net boven de 10 °C
+">
+      <h3>🌡 Temperaturen</h3>
+    </div>
+
+    <div class="klimaat-box wind" data-fulltext="
+<b>Wind & Weersinvloeden</b><br><br>
+•Suriname ligt in de invloedssfeer van zowel de noordoostpassaat en zuidoostpassaat<br>
+•Sibibusies: sterke, lokale windstoten tijdens felle buien<br>
+•Uitlopers van orkanen, El Niño en La Niña beïnvloeden de neerslagpatronen
+">
+      <h3>🌬 Wind & Weersinvloeden</h3>
+    </div>
+  </div>
+
+  <!-- 💬 Pop-up -->
+  <div id="popup" class="popup">
+    <span id="closePopup">✖</span>
+    <div id="popupContent"></div>
+  </div>
+
+  <!-- 🧠 Script -->
+  <script>
+    const boxes = document.querySelectorAll('.klimaat-box');
+    const popup = document.getElementById('popup');
+    const popupContent = document.getElementById('popupContent');
+    const closeBtn = document.getElementById('closePopup');
+    let activeBox = null;
+    let isHoveringPopup = false;
+
+    boxes.forEach(box => {
+      box.addEventListener('mouseenter', () => {
+        const content = box.getAttribute('data-fulltext');
+        popupContent.innerHTML = content;
+        popup.style.display = 'block';
+        activeBox = box;
+
+        // ✅ Specifieke styling voor seizoensindeling
+        if (box.classList.contains('seizoenen')) {
+          popup.classList.add('seizoenen-popup');
+        } else {
+          popup.classList.remove('seizoenen-popup');
+        }
+      });
+
+      box.addEventListener('mouseleave', () => {
+        setTimeout(() => {
+          if (!isHoveringPopup) {
+            popup.style.display = 'none';
+            popupContent.innerHTML = '';
+            activeBox = null;
+            popup.classList.remove('seizoenen-popup');
+          }
+        }, 100);
+      });
+    });
+
+    popup.addEventListener('mouseenter', () => {
+      isHoveringPopup = true;
+    });
+
+    popup.addEventListener('mouseleave', () => {
+      isHoveringPopup = false;
+      popup.style.display = 'none';
+      popupContent.innerHTML = '';
+      activeBox = null;
+      popup.classList.remove('seizoenen-popup');
+    });
+
+    closeBtn.addEventListener('click', () => {
+      popup.style.display = 'none';
+      popupContent.innerHTML = '';
+      activeBox = null;
+      isHoveringPopup = false;
+      popup.classList.remove('seizoenen-popup');
+    });
+  </script>
+<!-- 🔘 Onderste knoppen met afbeeldingen -->
+<div class="klimaat-bottom-menu">
+  <p class="menu-title">Kies hieronder een categorie om verder te gaan:</p>
+  <div class="menu-buttons">
+    <a href="seizoensverwachting.html" class="menu-button">
+      <img src="../images/seizoensverwachting-icon.png" alt="Seizoensverwachting">
+      <span>🌿 Seizoensverwachting</span>
+    </a>
+    <a href="klimaat-in-het-verleden.html" class="menu-button">
+  <img src="../images/klimaat_in_het_verleden-icon.png" alt="Klimaat in het verleden">
+  <span>🏳️ Klimaat in het verleden</span>
+</a>
+    <a href="klimaatnormalen.html" class="menu-button">
+      <img src="../images/klimaatnormalen-icon.png" alt="Klimaatnormalen">
+      <span>🌤 Klimaatnormalen</span>
+    </a>
+  </div>
+</div>
+
+<!-- 🧭 Footer -->
+<footer class="klimaat-footer">
+  © 2025 Meteorologische Dienst Suriname – Unit Klimatologie
+</footer>
+
+</body>
+</html>

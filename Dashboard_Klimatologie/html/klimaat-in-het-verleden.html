@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Klimaat in het verleden</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/klimaat-in-het-verleden.css">
+</head>
+<body>
+
+  <!-- 📘 Hover-box met uitleg -->
+  <div class="klimaat-info-box show-on-load">
+    <div class="info-content">
+      <h2 class="klimaat-title">
+        📘 Klimaat in het verleden – Suriname
+        <span class="info-icon" title="Hover over deze box voor extra uitleg.">ⓘ</span>
+      </h2>
+      <p class="hover-text">
+        De Unit Klimatologie verzamelt, valideert en archiveert alle officiële waarnemingen in Suriname. Deze pagina biedt toegang tot gecontroleerde meetgegevens, gepresenteerd als tijdreeksen, kaarten, grafieken en samenvattende rapporten over neerslag en andere klimaatelementen. Ter versterking van onze operationele capaciteit integreert de Unit Klimatologie nu ook satellietdata in haar analyses. Deze uitbreiding vergroot de ruimtelijke resolutie van onze klimaatrapportages en ondersteunt de validatie van lokale waarnemingen. Het stelt ons in staat om neerslag, temperatuur en extreme weersomstandigheden met nog meer precisie te monitoren.
+      </p>
+    </div>
+  </div>
+
+  <!-- 📘 Navigatieknoppen boven kaarten -->
+  <div class="klimaat-buttons">
+    <a href="tijdreeksen.html" class="klimaat-btn bruin">
+      <span class="btn-icon">📅</span>
+      <span class="btn-label">Tijdreeksen</span>
+    </a>
+    <a href="grafieken-kaarten.html" class="klimaat-btn bruin">
+      <span class="btn-icon">📊🗺️</span>
+      <span class="btn-label">Grafieken en Kaarten</span>
+    </a>
+    <a href="rapporten.html" class="klimaat-btn bruin">
+      <span class="btn-icon">📄</span>
+      <span class="btn-label">Rapporten</span>
+    </a>
+    <a href="https://arcg.is/0DXK501" target="_blank" class="klimaat-btn bruin">
+      <span class="btn-icon">🗃️</span>
+      <span class="btn-label">Meta data</span>
+    </a>
+  </div>
+
+  <!-- 🌍 Kaartensectie: Neerslag & Temperatuur -->
+  <div class="element-kaarten">
+    <div class="kaart-box">
+      <h3>🌧 Neerslag afgelopen 24 uur</h3>
+      <img src="../images/neerslag-kaart.png" alt="Neerslagkaart Suriname" class="vergrootbaar">
+    </div>
+    <div class="kaart-box">
+      <h3>🌡 Maximum Temperatuur</h3>
+      <img src="../images/temperatuur-kaart.png" alt="Temperatuurkaart Suriname" class="vergrootbaar">
+    </div>
+  </div>
+
+  <!-- 🔍 Vergroot-pop-up -->
+  <div id="kaartPopup" class="kaart-popup">
+    <span id="sluitKaartPopup">✖</span>
+    <img id="kaartPopupImg" src="" alt="Vergrote kaart">
+  </div>
+
+  <!-- 🧠 Script voor vergroting -->
+  <script>
+    const vergrootbareKaarten = document.querySelectorAll('.vergrootbaar');
+    const kaartPopup = document.getElementById('kaartPopup');
+    const kaartPopupImg = document.getElementById('kaartPopupImg');
+    const sluitKaartPopup = document.getElementById('sluitKaartPopup');
+
+    vergrootbareKaarten.forEach(img => {
+      img.addEventListener('click', () => {
+        kaartPopupImg.src = img.src;
+        kaartPopup.style.display = 'flex';
+      });
+    });
+
+    sluitKaartPopup.addEventListener('click', () => {
+      kaartPopup.style.display = 'none';
+      kaartPopupImg.src = '';
+    });
+
+    kaartPopup.addEventListener('click', (e) => {
+      if (e.target === kaartPopup) {
+        kaartPopup.style.display = 'none';
+        kaartPopupImg.src = '';
+      }
+    });
+  </script>
+
+  <footer class="klimaat-footer">
+    © 2025 Meteorologische Dienst Suriname – Unit Klimatologie
+  </footer>
+
+</body>
+</html>

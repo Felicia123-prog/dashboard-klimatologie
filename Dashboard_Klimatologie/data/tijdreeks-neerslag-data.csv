@@ -1,0 +1,881 @@
+Date,StationID,Rainfall (mm),Rainfall Category,Sheet
+2025-09-15,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20BoskampAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20CultuurtuinAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20FallawatraARS,0.4, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20LaPouleAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20RedidotiARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20BrokopondoCentrumARS,1.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20WitagronARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20BoskampAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20FallawatraARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20LaPouleAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20RedidotiARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20BrokopondoCentrumARS,1.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20WitagronARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-16,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20BoskampAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20CoronieAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20FallawatraARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20LaPouleAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20RedidotiARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20BrokopondoCentrumARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20WitagronARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-17,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20BoskampAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20CoronieAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20FallawatraARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20LaPouleAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20RedidotiARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20BrokopondoCentrumARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20WitagronARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-18,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20BoskampAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20FallawatraARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20LaPouleAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20RedidotiARS,0.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20BrokopondoCentrumARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20WitagronARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-19,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20BoskampAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20FallawatraARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20LaPouleAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20RedidotiARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20BrokopondoCentrumARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20WitagronARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-20,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20BoskampAWS,2.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20FallawatraARS,43.4, 🌧️Zware Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20LaPouleAWS,0.8, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20PoesoegroenoeARS,8.4, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20RedidotiARS,5.0, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20BaitaliARS,0.4, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20BrokopondoCentrumARS,59.4, 🌧️Zware Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20WitagronARS,21.6, 🌦️Matige Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20TijgerkreekARS,1.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-21,20ZanderijAWS,0.6, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20BoskampAWS,0.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20FallawatraARS,0.4, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20LaPouleAWS,3.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20LeliendaalAWS,2.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20RedidotiARS,0.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20SpieringshoekARS,5.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20BrokopondoCentrumARS,1.4, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20WitagronARS,12.4, 🌦️Matige Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-22,20ZanderijAWS,1.8, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20BoskampAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20EAG_AIRPORT,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20FallawatraARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20LaPouleAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20LeliendaalAWS,2.0, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20PoesoegroenoeARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20RedidotiARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20SpieringshoekARS,0.6, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20BaitaliARS,0.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20BrokopondoCentrumARS,8.4, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20WitagronARS,0.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-23,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20AllianceAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20ApoeraAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20BoskampAWS,0.4, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20CoronieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20CultuurtuinAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20EAG_AIRPORT,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20FallawatraARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20LaPouleAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20LeliendaalAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20MoengoAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20NickerieAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20NieuwAmsterdamAWS,⛔ geen data,⛔ geen data,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20PoesoegroenoeARS,0.8, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20RedidotiARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20SpieringshoekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20BaitaliARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20BrokopondoCentrumARS,0.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20WitagronARS,0.2, ☀️Lichte Neerslag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20TijgerkreekARS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-24,20ZanderijAWS,0.0,Droge Dag,Hydromet_Cloud__Rainfall_Data
+2025-09-15,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-15,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-15,20GoliathARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-15,20KaboARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-15,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-15,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-15,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-15,20WageningenARS,2.8, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-15,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-15,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-15,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-16,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-16,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-16,20GoliathARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-16,20KaboARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-16,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-16,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-16,20StolkertsijverARS,1.4, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-16,20WageningenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-16,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-16,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-16,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-17,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-17,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-17,20GoliathARS,1.2, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-17,20KaboARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-17,20KawenhakenARS,0.8, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-17,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-17,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-17,20WageningenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-17,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-17,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-17,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-18,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20GoliathARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20KaboARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20WageningenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-18,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-18,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-18,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-19,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20GoliathARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20KaboARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20WageningenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-19,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-19,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-19,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-20,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-20,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-20,20GoliathARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-20,20KaboARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-20,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-20,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-20,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-20,20WageningenARS,6.0, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-20,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-20,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-20,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-21,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-21,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-21,20GoliathARS,25.4, 🌦️Matige Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-21,20KaboARS,14.4, 🌦️Matige Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-21,20KawenhakenARS,0.6, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-21,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-21,20StolkertsijverARS,6.6, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-21,20WageningenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-21,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-21,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-21,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-22,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-22,20CoeroeniARS,0.4, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-22,20GoliathARS,13.8, 🌦️Matige Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-22,20KaboARS,5.8, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-22,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-22,20PaloemeuARS,1.2, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-22,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-22,20WageningenARS,0.2, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-22,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-22,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-22,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-23,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-23,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-23,20GoliathARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-23,20KaboARS,0.2, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-23,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-23,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-23,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-23,20WageningenARS,2.8, ☀️Lichte Neerslag,NOAA_ARS_Rainfall_Data
+2025-09-23,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-23,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-23,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-24,20CayanaARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20CoeroeniARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20GoliathARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20KaboARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20KawenhakenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20PaloemeuARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20StolkertsijverARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20WageningenARS,0.0,Droge Dag,NOAA_ARS_Rainfall_Data
+2025-09-24,20DrietabbetjeARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-24,20PeperpotARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-24,20RaleighvallenARS,⛔ geen data,⛔ geen data,NOAA_ARS_Rainfall_Data
+2025-09-15,60Bigipan AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-15,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-15,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-15,60Pokigron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-15,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-16,60Bigipan AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-16,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-16,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-16,60Pokigron AWLS,0.2, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-16,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-17,60Bigipan AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-17,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-17,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-17,60Pokigron AWLS,15.2, 🌦️Matige Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-17,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-18,60Bigipan AWLS,1.8, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-18,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-18,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-18,60Pokigron AWLS,0.6, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-18,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-19,60Bigipan AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-19,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-19,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-19,60Pokigron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-19,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-20,60Bigipan AWLS,0.6, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-20,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-20,60Pikin Saron AWLS,1.4, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-20,60Pokigron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-20,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-21,60Bigipan AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-21,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-21,60Pikin Saron AWLS,42.8, 🌧️Zware Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-21,60Pokigron AWLS,0.6, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-21,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-22,60Bigipan AWLS,0.2, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-22,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-22,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-22,60Pokigron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-22,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-23,60Bigipan AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-23,60Nanizwamp AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-23,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-23,60Pokigron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-23,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-24,60Bigipan AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-24,60Nanizwamp AWLS,9.0, ☀️Lichte Neerslag,NOAA_AWLS_Rainfall_Data
+2025-09-24,60Pikin Saron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-24,60Pokigron AWLS,0.0,Droge Dag,NOAA_AWLS_Rainfall_Data
+2025-09-24,60Nanisluis AWLS,⛔ geen data,⛔ geen data,NOAA_AWLS_Rainfall_Data
+2025-09-15,40AlalapaduLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-15,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40BotopasieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40CayanaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40CoronieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40CotticaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40DjoemoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-15,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-15,40GodoholoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40KwamalasamoetoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40PaloemeuLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40SipaliwiniDorpLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40StoelmansEilandLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40TepoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40OelemarieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-15,40MoengoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40LawaAnapaikeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-15,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40AlalapaduLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-16,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40BotopasieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40CayanaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40CoronieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40CotticaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-16,40DonderskampLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40DrietabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40GodoholoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40KwamalasamoetoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40PaloemeuLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-16,40StoelmansEilandLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40TepoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40OelemarieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-16,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-16,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-16,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-16,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40AlalapaduLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-17,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40BotopasieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40CayanaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40CoronieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40CotticaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40DjoemoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40DonderskampLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40DrietabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40GodoholoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-17,40PaloemeuLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-17,40StoelmansEilandLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40TepoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40OelemarieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-17,40MoengoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40LawaAnapaikeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-17,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40AlalapaduLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-18,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40BotopasieLVT,4, ☀️Lichte Neerslag,LVT_Rainfall_Data
+2025-09-18,40CayanaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40CoronieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40CotticaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40DjoemoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40DonderskampLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40DrietabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40GodoholoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-18,40PaloemeuLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40SipaliwiniDorpLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40StoelmansEilandLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40TepoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40OelemarieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40LangatabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-18,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-18,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-18,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40AlalapaduLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-19,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40BotopasieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40CayanaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40CoronieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40CotticaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40DjoemoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40DonderskampLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40DrietabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-19,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-19,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-19,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-19,40StoelmansEilandLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40TepoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-19,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-19,40MoengoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40LawaAnapaikeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-19,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-20,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-20,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-21,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40AlalapaduLVT,0.7, ☀️Lichte Neerslag,LVT_Rainfall_Data
+2025-09-22,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40BotopasieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40CayanaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40CotticaLVT,4.2, ☀️Lichte Neerslag,LVT_Rainfall_Data
+2025-09-22,40DjoemoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40DonderskampLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40GodoholoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40KwamalasamoetoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40PaloemeuLVT,3, ☀️Lichte Neerslag,LVT_Rainfall_Data
+2025-09-22,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40StoelmansEilandLVT,0T,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40TepoeLVT,2, ☀️Lichte Neerslag,LVT_Rainfall_Data
+2025-09-22,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-22,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-22,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40AlalapaduLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-23,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40BotopasieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40CayanaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40CoronieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40CotticaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40DjoemoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40DonderskampLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40DrietabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40GodoholoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40KwamalasamoetoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40PaloemeuLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-23,40StoelmansEilandLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40TepoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40OelemarieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40LangatabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40MoengoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40LawaAnapaikeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-23,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40AlalapaduLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-24,40ApetinaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40BotopasieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40CayanaLVT,2, ☀️Lichte Neerslag,LVT_Rainfall_Data
+2025-09-24,40CoeroenieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40CoronieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40CotticaLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40DjoemoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-24,40DrietabbetjeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40GodoholoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40KwamalasamoetoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-24,40PoesoegroenoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-24,40StoelmansEilandLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40TepoeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40OelemarieLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-24,40MoengoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40LawaAnapaikeLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40LawaAntinoLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-24,40LawaTabikiLVT,0,Droge Dag,LVT_Rainfall_Data
+2025-09-25,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-25,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-26,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-27,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-28,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-29,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-30,40AlalapaduLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-01,40AmotopoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-02,40ApetinaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-03,40BotopasieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-04,40CayanaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-05,40CoeroenieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-06,40CoronieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-07,40CotticaLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-08,40DjoemoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-09,40DonderskampLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-10,40DrietabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-11,40GodoholoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-12,40KwamalasamoetoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-13,40PaloemeuLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-14,40PoesoegroenoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-15,40SipaliwiniDorpLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-16,40StoelmansEilandLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-17,40TepoeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-18,40OelemarieLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-19,40LangatabbetjeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-20,40MoengoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-21,40LawaAnapaikeLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-22,40LawaAntinoLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-10-23,40LawaTabikiLVT,⛔ geen data,⛔ geen data,LVT_Rainfall_Data
+2025-09-15,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-15,50DomburgVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-15,50Groot HenarVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-15,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-15,50NieuwAmsterdamVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-15,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-15,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-15,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-15,30NickerieKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-16,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-16,50DomburgVolunteer,2.5, ☀️Lichte Neerslag,Volunteer_Rainfal_Data
+2025-09-16,50Groot HenarVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-16,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-16,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-16,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-16,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-16,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-16,30NickerieKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-17,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-17,50DomburgVolunteer,4.8, ☀️Lichte Neerslag,Volunteer_Rainfal_Data
+2025-09-17,50Groot HenarVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-17,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-17,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-17,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-17,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-17,30ZanderijKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-17,30NickerieKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-18,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-18,50DomburgVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-18,50Groot HenarVolunteer,1.1, ☀️Lichte Neerslag,Volunteer_Rainfal_Data
+2025-09-18,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-18,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-18,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-18,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-18,30ZanderijKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-18,30NickerieKlima,2.1, ☀️Lichte Neerslag,Volunteer_Rainfal_Data
+2025-09-19,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-19,50DomburgVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-19,50Groot HenarVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-19,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-19,50NieuwAmsterdamVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-19,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-19,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-19,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-19,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-20,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-20,50DomburgVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-20,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-20,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-20,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-20,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-20,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-20,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-20,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-21,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-21,50DomburgVolunteer,9.7, ☀️Lichte Neerslag,Volunteer_Rainfal_Data
+2025-09-21,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-21,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-21,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-21,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-21,30ZorgEnHoopKlima,1.8, ☀️Lichte Neerslag,Volunteer_Rainfal_Data
+2025-09-21,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-21,30NickerieKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-22,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-22,50DomburgVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-22,50Groot HenarVolunteer,6.3C,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-22,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-22,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-22,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-22,30ZorgEnHoopKlima,0T,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-22,30ZanderijKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-22,30NickerieKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-23,50AllianceVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-23,50DomburgVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-23,50Groot HenarVolunteer,2.6, ☀️Lichte Neerslag,Volunteer_Rainfal_Data
+2025-09-23,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-23,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-23,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-23,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-23,30ZanderijKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-23,30NickerieKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-24,50AllianceVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-24,50DomburgVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-24,50Groot HenarVolunteer,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-24,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-24,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-24,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-24,30ZorgEnHoopKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-24,30ZanderijKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-24,30NickerieKlima,0,Droge Dag,Volunteer_Rainfal_Data
+2025-09-25,50AllianceVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,50DomburgVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,30ZorgEnHoopKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-25,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,50AllianceVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,50DomburgVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,30ZorgEnHoopKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-26,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,50AllianceVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,50DomburgVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,30ZorgEnHoopKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-27,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-28,50AllianceVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,50DomburgVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-10-01,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-10-02,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-10-03,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-10-04,30ZorgEnHoopKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-10-05,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-10-06,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,50AllianceVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,50DomburgVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,30ZorgEnHoopKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-29,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,50AllianceVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,50DomburgVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,50Groot HenarVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,50LeliendaalVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,50NieuwAmsterdamVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,50UitkijkVolunteer,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,30ZorgEnHoopKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,30ZanderijKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data
+2025-09-30,30NickerieKlima,⛔ geen data,⛔ geen data,Volunteer_Rainfal_Data

@@ -1,0 +1,182 @@
+/* 📘 Hover-box styling */
+.klimaat-info-box {
+  max-width: 1000px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: linear-gradient(to right, #e0f7fa, #f1f8e9);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  transition: background 0.3s ease;
+  cursor: pointer;
+  position: relative;
+}
+
+.klimaat-info-box:hover {
+  background: linear-gradient(to right, #c8e6c9, #b2ebf2);
+}
+
+/* ✅ Titel met icoontje */
+.klimaat-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.6rem;
+  color: #00796b;
+}
+
+.info-icon {
+  font-size: 1.1rem;
+  color: #555;
+  cursor: default;
+  transition: color 0.2s ease;
+}
+
+.info-icon:hover {
+  color: #00796b;
+}
+
+/* ✅ Hovertekst: verschijnt alleen bij hover */
+.hover-text {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 0.4s ease, max-height 0.4s ease;
+  margin-top: 1rem;
+  color: #333;
+  font-size: 1rem;
+}
+
+.klimaat-info-box:hover .hover-text {
+  opacity: 1;
+  max-height: 500px;
+}
+
+/* 🧭 Placeholder voor toekomstige secties */
+.graph-section,
+.download-section {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background-color: #fefefe;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* 🌍 Kaartensectie layout */
+.element-kaarten {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 3rem auto;
+  max-width: 1100px;
+}
+
+.kaart-box {
+  flex: 1 1 480px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 1rem;
+  text-align: center;
+}
+
+.kaart-box h3 {
+  margin-bottom: 1rem;
+  color: #0077b6;
+  font-size: 1.2rem;
+}
+
+/* 📷 Kaart styling */
+.kaart-box img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  cursor: zoom-in;
+  transition: transform 0.2s ease;
+}
+
+.kaart-box img:hover {
+  transform: scale(1.02);
+}
+
+/* 🔍 Vergroot-pop-up overlay */
+.kaart-popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.kaart-popup img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+}
+
+.kaart-popup span {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 2rem;
+  color: #fff;
+  cursor: pointer;
+  transform: scale(2);
+}
+
+.kaart-popup span:hover {
+  color: #ff4d4d;
+}
+.klimaat-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 2rem auto 3rem auto;
+  max-width: 1000px;
+}
+
+.klimaat-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  height: 120px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.klimaat-btn .btn-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.klimaat-btn.rood {
+  background-color: #d32f2f;
+}
+
+.klimaat-btn.bruin {
+  background-color: #6d4c41;
+}
+
+.klimaat-btn:hover {
+ transform: scale(2);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+}

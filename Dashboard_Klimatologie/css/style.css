@@ -1,0 +1,232 @@
+/* 🌄 Achtergrond en basisstijl */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background: url('../images/cloud-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+/* 🧭 Header box gecentreerd */
+.klimaat-header-box {
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: white;
+  font-size: 1.5rem;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.klimaat-header-box:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
+
+/* 📦 Grid voor boxen */
+.klimaat-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* 📦 Compacte, gekleurde boxen */
+.klimaat-box {
+  flex: 0 1 180px;
+  height: 60px;
+  padding: 0.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
+  color: #333;
+  font-weight: bold;
+}
+
+.klimaat-box:hover {
+  transform: translateY(-6px) scale(1.05);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.4);
+}
+
+.klimaat-box h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+/* 🎨 Kleuren per box */
+.tropisch    { background-color: #b3d9ff; }   /* lichtblauw */
+.seizoenen   { background-color: #e0b3ff; }   /* lichtpaars */
+.temperaturen{ background-color: #ffd9b3; }   /* lichtoranje */
+.wind        { background-color: #b3ffcc; }   /* lichtgroen */
+
+/* 💬 Pop-up styling */
+.popup {
+  display: none;
+  position: fixed;
+  top: 72%; /* lager op het scherm */
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 96%;
+  max-width: 1100px;
+  background: rgba(255, 255, 255, 0.97);
+  padding: 2rem 2.5rem;
+  border-radius: 14px;
+  box-shadow: 0 12px 32px rgba(0,0,0,0.5);
+  z-index: 9999;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #222;
+  overflow-y: auto;
+  overflow-x: auto;
+  max-height: 75vh;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+/* 🧾 Tabel in pop-up */
+.popup table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  margin-top: 1rem;
+  table-layout: fixed;
+}
+
+.popup th,
+.popup td {
+  padding: 12px;
+  border: 1px solid #ccc;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+/* 🎯 Specifieke styling voor seizoensindeling pop-up */
+.popup.seizoenen-popup {
+  top: 75%; /* lager dan standaard pop-up */
+  max-width: 1100px; /* breder voor tabel */
+  width: 96%;
+  padding: 2.5rem 3rem;
+}
+
+.popup thead {
+  background-color: #e0b3ff;
+  color: #333;
+}
+
+/* ❌ Sluitknop styling */
+#closePopup {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #444;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+#closePopup:hover {
+  color: #ff4d4d;
+}
+
+/* ✨ Fade-in animatie */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translate(-50%, -60%); }
+  to   { opacity: 1; transform: translate(-50%, -50%); }
+}
+
+/* ❌ Sluitknop styling */
+#closePopup {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #444;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+#closePopup:hover {
+  color: #ff4d4d;
+}
+/* 🔘 Onderste menu */
+.klimaat-bottom-menu {
+  margin-top: 4rem;
+  text-align: center;
+  background: rgba(226, 241, 91, 0.85);
+  padding: 2rem 1rem;
+  border-radius: 12px;
+  font-size: 2rem;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  color: #333;
+}
+
+.menu-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+.menu-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1.8rem;
+  font-size: 1.8rem;
+  flex-wrap: wrap;
+}
+
+.menu-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: rgb(207, 25, 25);
+  font-size: 1.5rem;
+  padding: 1rem;
+  border-radius: 12px;
+  width: 200px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.menu-button:hover {
+  transform: scale(2);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+.menu-button img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+}
+
+.menu-button span {
+  font-weight: bold;
+  font-size: 1rem;
+  text-align: center;
+}
+
+/* 🧭 Footer */
+.klimaat-footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #eee;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.4);
+  border-top: 1px solid rgba(255,255,255,0.2);
+}
