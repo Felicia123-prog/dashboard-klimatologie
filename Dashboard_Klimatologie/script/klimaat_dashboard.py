@@ -8,7 +8,7 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.units import cm
 
 # 📥 Stap 1: Laad het Excel-bestand
-df = pd.read_excel("data/Klimaatdata_Jan_Sep_2025.xlsx")
+df = pd.read_excel("../data/Klimaatdata_Jan_Sep_2025.xlsx")
 
 # 🧼 Stap 2: Zet 'Date' om naar datetime
 df["Date"] = pd.to_datetime(df["Date"])
